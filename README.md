@@ -1,6 +1,6 @@
 Enterprise-Network-Design-and-VLSM-Implementation
 
-[Network Topology](networktopologydiagram.png)
+[](networktopologydiagram.png)
 
 Project Overview
 Designed and simulated an enterprise network using Cisco Packet Tracer.
