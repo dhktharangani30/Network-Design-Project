@@ -1,6 +1,4 @@
 Enterprise-Network-Design-and-VLSM-Implementation
-## Network Topology
-## Network Topology
 
 [Network Topology](networktopologydiagram.png)
 
